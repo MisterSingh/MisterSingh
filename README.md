@@ -1,6 +1,21 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    MisterSingh here :wave:
+    <br><br>
+    I work as a Full Stack developer! 👨‍💻
+    <br><br>
+    Will code for coffee, food, compliments | Video gamer, DIYer
+    <br><br>
+    You can reach me: SignorSingh@gmail.com
+  </samp>
+</p>
+
+<!--
 ### Hi there 👋
 📫 You can reach me: SignorSingh@gmail.com
-<!--
 **MisterSingh/MisterSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
