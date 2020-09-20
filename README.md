@@ -7,9 +7,9 @@
     <br><br>
     I work as a Full Stack developer! 👨‍💻
     <br><br>
-    Will code for coffee, food, compliments | Video gamer, DIYer
+    Will code for coffee, food | Game Dev
     <br><br>
-    You can reach me: SignorSingh@gmail.com
+    You can reach me:  <a href = "mailto: SignorSingh@gmail.com"> SignorSingh@gmail.com</a>
   </samp>
 </p>
 
