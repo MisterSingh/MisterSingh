@@ -9,7 +9,7 @@
     <br><br>
     Will code for coffee, food | Game Dev
     <br><br>
-    You can reach me:  <a href = "mailto: mister_singh@outlook.com"> Mister_Singh@outlook.com </a>
+    You can reach me:  <a href = "mailto: mister_singh@outlook.com"> mister_singh@outlook.com </a>
   </samp>
 </p>
 
