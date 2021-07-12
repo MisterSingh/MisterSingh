@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    MisterSingh here :wave:
+    Singh here :wave:
     <br><br>
     I work as a Full Stack developer! 👨‍💻
     <br><br>
