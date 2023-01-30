@@ -13,10 +13,9 @@
   </samp>
 </p>
 
-<!--
-    You can reach me:  <a href = "mailto: SignorSingh@gmail.com"> SignorSingh@gmail.com </a>
+<!-- 
 ### Hi there 👋
-📫 You can reach me: SignorSingh@gmail.com
+📫 You can reach me: mister_singh@outlook.com
 **MisterSingh/MisterSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
